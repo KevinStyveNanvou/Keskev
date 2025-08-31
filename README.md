@@ -1,2 +1,2 @@
 # Keskev
-C'est juste un test de projet github 
+Application de promotion de la culture nationale en utilisant l'intelligence artificiel
